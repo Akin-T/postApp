@@ -1,0 +1,21 @@
+# Ana proje ignore listesi
+
+# Node modules
+node_modules/
+client/node_modules/
+api/node_modules/
+
+# Cache
+.cache/
+client/.cache/
+client/node_modules/.cache/
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
