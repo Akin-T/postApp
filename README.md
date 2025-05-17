@@ -5,6 +5,4 @@
 ![istatistik](https://github.com/user-attachments/assets/a1c674b9-488b-41aa-9e77-010421fb01bb)
 
 
-![ba](https://github.com/user-attachments/assets/2680b367-84d9-4c4f-8614-e8c6f6244d71)
-
 
